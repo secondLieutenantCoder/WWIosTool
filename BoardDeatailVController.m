@@ -28,7 +28,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
+// 添加一行注释行不行。
 /*
 #pragma mark - Navigation
 
